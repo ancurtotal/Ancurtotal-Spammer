@@ -16,5 +16,8 @@ $ cd Ancurtotal-Spammer
 $ chmod +x Ancurtotal-Spammer.sh
 $ sh Ancurtotal-Spammer.sh
 
+username : AncurtotalSpammer
+password : SODC
+
 EKAY ANCURTOTAL
 SCARY OF DEMON CYBER
