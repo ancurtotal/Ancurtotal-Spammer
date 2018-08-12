@@ -18,4 +18,3 @@ $sh Ancurtotal-Spammer.sh
 
 EKAY ANCURTOTAL
 SCARY OF DEMON CYBER
-# ScaryOfDemonCyber-Ancurtotal-Spammer
