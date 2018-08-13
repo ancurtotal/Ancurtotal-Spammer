@@ -485,6 +485,17 @@ apt install git
 git clone https://github.com/Amriez/gcospam
 echo
 echo "SUDAH TERINSTALL BRO!!" | lolcat
+echo
+echo "Cara Menggunakan LITESPAM :"
+echo " $ cd gcospam"
+echo " $ sh install.sh"
+echo " $ sh gco.sh"
+echo
+echo "- Pilih Nomor Yang Mana Aja...Bebas !!!"
+echo "- Masukan Nomor Target Tanpa 0/62...."
+echo "- Input Bebas"
+echo "- Jeda Default Aja"
+echo "- Lalu Tunggu Hingga Proses Selesai..."
 
 
 ;;
@@ -528,6 +539,10 @@ pkg install php
 curl -s http://files-store.theprivat.ml/uploads/bombtsel.txt > bombtsel.php 
 echo
 echo "SUDAH TERINSTALL BRO!!" | lolcat
+echo
+echo "Cara Menggunakan Spam Boms Tsel :"
+echo " $ chmod 777 bombtsel.php"
+echo " $ php bombtsel.php"
 
 
 ;;
@@ -543,6 +558,10 @@ pkg install php
 wget http://files-store.theprivat.ml/uploads/bom-mall.zip
 echo
 echo "SUDAH TERINSTALL BRO!!" | lolcat
+echo "Cara Menggunakan Spam Bom Mall :"
+echo " $ unzip bom-mall.zip"
+echo " $ cd bom-mall"
+echo " $ php run.php"
 
 
 ;;
