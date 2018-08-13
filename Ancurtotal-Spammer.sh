@@ -34,12 +34,13 @@ echo "_____________________________________________________________" | lolcat
 echo
 echo "TYPE       : AUTO INSTALLER TOOLS SPAMMER $green " |lolcat
 echo "VERSION    : SODC v1 " | lolcat
-echo "TOTALS     : 20 TOOLS SPAM " | lolcat
+echo "TOTALS     : 21 TOOLS SPAM " | lolcat
 echo "AUTHOR     : EKAY ANCURTOTAL $green " | lolcat
 echo "TEAM       : SCARY OF DEMON CYBER $green " | lolcat
 echo "FROM       : INDONESIA $green " | lolcat
 echo "THANKS YOU : ALL MEMBER SODC TEAM " | lolcat
 echo "NOTES      : JANGAN DI PAKAI BUAT NGERJAIN ORANG " | lolcat
+echo "           : KASIAN BRO !! " | lolcat
 echo "_____________________________________________________________" | lolcat
 
 sleep 1
@@ -90,9 +91,9 @@ echo ""
 echo "============================" | lolcat
 echo $b "1. Install LITESPAM${enda}";
 echo "============================" | lolcat
-echo $b "2. Install bom${enda}";
+echo $b "2. Install Bom SMS All Operator${enda}";
 echo "============================" | lolcat
-echo $b "3. Install Bom Sms 3${enda}";
+echo $b "3. Install Bom SMS Tri${enda}";
 echo "============================" | lolcat
 echo $b "4. Install Santet-Online${enda}";
 echo "============================" | lolcat
@@ -128,6 +129,8 @@ echo $b "19. Install Spam Boms Tsel${enda}";
 echo "============================" | lolcat
 echo $b "20. Install Spam Boms Mall${enda}";
 echo "============================" | lolcat
+echo $b "21. Install Egyptian-SMS-Spammer${enda}";
+echo "============================" | lolcat
 echo $b "00. Exit${enda}";
 echo "============================" | lolcat
 echo "     [PILIH NOMORNYA BRO]"
@@ -148,42 +151,76 @@ pkg install toilet
 pkg install sh
 pkg install git
 git clone https://github.com/4L13199/LITESPAM
-cd LITESPAM
-sh LITESPAM.sh
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
+echo
+echo "Menu LITESPAM :" | lolcat
+echo " 1. Tokopedia" | lolcat
+echo " 2. Telkomsel" | lolcat
+echo " 3. Matahari Mall" | lolcat
+echo " 4. PHD" | lolcat
+echo " 5. Jd.Id" | lolcat
+echo " 6. Email Bomber" | lolcat
+echo " 0. Keluar" | lolcat
+echo
+echo "Cara Menggunakan LITESPAM :"
+echo " $ cd LITESPAM"
+echo " $ chmod +x LITESPAM.sh"
+echo " $ sh LITESPAM.sh"
 
 
 ;;
 
-#Install Bom
+#Install Bom SMS All Operator
 
 2) clear
-echo "Install bom...Installing, Please Wait !!" | lolcat
+echo "Install Bom SMS All Operator...Installing, Please Wait !!" | lolcat
 sleep 1 
 pkg update
 pkg upgrade
 pkg install python2
 pkg install php
 pkg install git
-git clone https://github.com/rootnet007/bom
-cd bom
-php bom.php
+git clone https://github.com/rootnet007/bom.git
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
+echo
+echo "Cara Menggunakan Bom SMS All Operator:"
+echo " $ cd bom"
+echo " $ chmod +x bom.php"
+echo " $ php bom.php"
+echo
+echo "- Masukkan Nomor Target..."
+echo "- Masukan Jumlah Input..."
+echo "- Masukan Jumlah Kecepatan..."
+echo "- Lalu Tunggu Hingga Proses Selesai..."
 
 
 ;;
 
-#Install Bom Sms 3
+#Install Bom SMS Tri
 
 3) clear
-echo "Install Bom Sms 3...Installing, Please Wait !!" | lolcat
+echo "Install Bom SMS Tri...Installing, Please Wait !!" | lolcat
 sleep 1
 pkg update
 pkg upgrade
 pkg install python2
 pkg install php
-pkg install sh
 pkg install git
-git clone https://github.com/ardzz/tri/
-echo "SUDAH TERINSTALL BRO"
+git clone https://github.com/bayufedra/bom-sms-otp-tri/
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
+echo
+echo "Cara Menggunakan Bom SMS Tri :"
+echo " $ cd bom-sms-otp-tri"
+echo " $ chmod +x bom-tri.php"
+echo " $ php bom-tri.php"
+echo
+echo "- Masukkan Nomor Target..."
+echo "- Masukan Limit..."
+echo "- Masukan Jumlah Kecepatan..."
+echo "- Lalu Tunggu Hingga Proses Selesai..."
 
 
 ;;
@@ -196,11 +233,24 @@ sleep 1
 apt update
 apt upgrade
 apt install python2
+pip2 install requests
 apt install git
 git clone https://github.com/Gameye98/santet-online
-cd santet-online
-chmod +x santet.py
-python2 santet.py
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
+echo
+echo "Menu LITESPAM :" | lolcat
+echo " 1. Create a Netcat Payload and Listener" | lolcat
+echo " 2. Facebook Group Hijack Attack" | lolcat
+echo " 3. SMS Bomber Attack Vecktor" | lolcat
+echo " 4. SMS Proof Attack Vecktor" | lolcat
+echo " 5. Denial-of-Service Attack" | lolcat
+echo " 00. Exit The Santet" | lolcat
+echo
+echo "Cara Menggunakan Santet-Online :"
+echo " $ cd santet-online"
+echo " $ chmod +x santet.py"
+echo " $ python2 santet.py"
 
 
 ;;
@@ -217,7 +267,8 @@ pkg install php
 pkg install sh
 pkg install git
 git clone https://github.com/hatakecnk/cnkspam
-echo "SUDAH TERINSTALL BRO"
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -234,7 +285,8 @@ pkg install php
 pkg install sh
 pkg install git
 git clone https://github.com/Rusmana-ID/rus
-echo "SUDAH TERINSTALL BRO"
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -251,7 +303,8 @@ pkg install php
 pkg install sh
 pkg install git
 git clone https://github.com/Gameye98/SpazSMS
-echo "SUDAH TERINSTALL BRO"
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -268,7 +321,8 @@ pkg install php
 pkg install sh
 pkg install git
 git clone https://github.com/haijuga7/New-Spammer
-echo "SUDAH TERINSTALL BRO"
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -285,7 +339,8 @@ pkg install php
 pkg install sh
 pkg install git
 git clone https://github.com/SIIL3NT/spam
-echo "SUDAH TERINSTALL BRO"
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -302,7 +357,8 @@ pkg install php
 pkg install sh
 pkg install git
 git clone https://github.com/QiubyZ/QJDID
-echo "SUDAH TERINSTALL BRO"
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -319,7 +375,8 @@ pkg install php
 pkg install sh
 pkg install git
 git clone https://github.com/QiubyZ/QFloodSms
-echo "SUDAH TERINSTALL BRO"
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -336,7 +393,8 @@ pkg install php
 pkg install sh
 pkg install git
 git clone https://github.com/not404foundcyberteam/spam-mantan
-echo "SUDAH TERINSTALL BRO"
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -353,7 +411,8 @@ pkg install php
 pkg install sh
 pkg install git
 git clone https://github.com/ALX-04/AVARspam
-echo "SUDAH TERINSTALL BRO"
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -370,7 +429,8 @@ pkg install php
 pkg install sh
 pkg install git
 git clone https://github.com/Amriez/ANRspam
-echo "SUDAH TERINSTALL BRO"
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -387,7 +447,8 @@ pkg install php
 pkg install sh
 pkg install git
 git clone https://github.com/kereh/MultiSpam
-echo "SUDAH TERINSTALL BRO"
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -404,7 +465,8 @@ pkg install php
 pkg install sh
 pkg install git
 git clone https://github.com/Senitopeng/Spamchat
-echo "SUDAH TERINSTALL BRO"
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -421,9 +483,8 @@ pkg install php
 pkg install sh
 apt install git
 git clone https://github.com/Amriez/gcospam
-cd gcospam
-sh install.sh
-sh gco.sh
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -439,9 +500,18 @@ pkg install python2
 pip2 install requests
 pkg install git
 git clone https://github.com/p4kl0nc4t/Spammer-Grab
-Spammer-Grab
-chmod +x spammer.py
-python2 spammer.py
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
+echo
+echo "Cara Menggunakan Spammer-Grab :"
+echo " $ cd Spammer-Grab"
+echo " $ chmod +x spammerv1.py"
+echo " $ python2 spammerv1.py"
+echo " $ python2 spammerv1.py phone" 
+echo
+echo "Contoh :"
+echo " $ python2 spammerv1.py 6283831919278 "
+echo "- Lalu Tunggu Hingga Proses Selesai..."
 
 
 ;;
@@ -456,8 +526,8 @@ pkg upgrade
 pkg install curl
 pkg install php
 curl -s http://files-store.theprivat.ml/uploads/bombtsel.txt > bombtsel.php 
-chmod 777 bombtsel.php
-php bombtsel.php
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
 
 
 ;;
@@ -471,9 +541,31 @@ pkg install upgrade
 pkg install wget
 pkg install php
 wget http://files-store.theprivat.ml/uploads/bom-mall.zip
-unzip bom-mall.zip
-cd bom-mall
-php run.php
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
+
+
+;;
+
+#Install Egyptian-SMS-Spammer
+
+21) clear
+echo "Install Egyptian-SMS-Spammer...Installing, Please Wait !!" | lolcat
+pkg install update
+pkg install upgrade
+pkg install wget
+pkg install php
+https://github.com/WazeHell/Egyptian-SMS-Spammer
+echo
+echo "SUDAH TERINSTALL BRO!!" | lolcat
+echo
+echo "Cara Menggunakan Egyptian-SMS-Spammer :"
+echo " $ cd Egyptian-SMS-Spammer"
+echo " $ chmod 777 run.py"
+echo " $ python2 run.py"
+echo
+echo "- Masukkan Nomor Target..."
+echo "- Lalu Tunggu Hingga Proses Selesai..."
 
 
 ;;
