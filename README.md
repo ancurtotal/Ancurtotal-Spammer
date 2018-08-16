@@ -17,8 +17,8 @@ $ git clone https://github.com/ancurtotal/Ancurtotal-Spammer
 ```MENJALANKANNYA```
 
 $ cd Ancurtotal-Spammer
-$ chmod +x Ancurtotal-Spammer.sh
-$ sh Ancurtotal-Spammer.sh
+$ chmod +x Ancurtotal-Spammer
+$ ./Ancurtotal-Spammer
 
 username : AncurtotalSpammer
 password : SODC
