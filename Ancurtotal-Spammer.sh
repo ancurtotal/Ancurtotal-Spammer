@@ -87,7 +87,9 @@ echo  "SILAHKAN KETIK 00 LALU KETIK ls" | lolcat
 echo  "DAN MASUK KE TOOLS YANG KALIAN INSTALL" | lolcat
 echo  "JANGAN NANYA LAGI JINK " | lolcat
 echo  "SABAR YA NUNGGU NYA :v " | lolcat
+echo
 echo  "NGOPI!!! " | lolcat
+echo
 echo  "#TTD EKAY ANCURTOTAL 😎" | lolcat
 echo  "#ORANG GILA MAH BEBAS😎" | lolcat
 echo ""  
