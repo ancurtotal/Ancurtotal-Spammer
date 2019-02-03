@@ -32,17 +32,17 @@ lolcat Ekay.txt
 figlet ANCURTOTAL | lolcat
 
 echo  "_____________________________________________________________" | lolcat
-echo  "[TYPE      : TOOLS INSTALLER] " |lolcat
-echo  "[VERSION   : V.1] " | lolcat
-echo  "[TOTALS    : 21 TOOLS] " | lolcat
-echo  "[AUTHOR    : EKAY ANCURTOTAL] " |lolcat
-echo  "[ASSOCIATE : ANCURTOTAL CYBER TEAM] " |lolcat
-echo  "[ASSOCIATE : SCARY OF CYBER DEMON] " |lolcat
-echo  "[ASSOCIATE : BUFT TEAM] " |lolcat
-echo  "[ASSOCIATE : MUSLIM CYBER ARMY] " |lolcat
-echo  "[NOTES     : JELAJAHI SETIAP TOOLS DENGAN BIJAK] " | lolcat
-echo  "[THANKS TO : ALLAH SWT AND RASULULLAH SAW]" | lolcat
-echo  "[THANKS TO : MY WIFE AND TWO DAUGHTERS]" | lolcat
+echo  "TYPE      : TOOLS INSTALLER " |lolcat
+echo  "VERSION   : V.1 " | lolcat
+echo  "TOTALS    : 21 TOOLS " | lolcat
+echo  "AUTHOR    : EKAY ANCURTOTAL " |lolcat
+echo  "ASSOCIATE : ANCURTOTAL CYBER TEAM " |lolcat
+echo  "ASSOCIATE : SCARY OF CYBER DEMON " |lolcat
+echo  "ASSOCIATE : BUFT TEAM " |lolcat
+echo  "ASSOCIATE : MUSLIM CYBER ARMY " |lolcat
+echo  "NOTES     : JELAJAHI SETIAP TOOLS DENGAN BIJAK " | lolcat
+echo  "THANKS TO : ALLAH SWT AND RASULULLAH SAW" | lolcat
+echo  "THANKS TO : MY WIFE AND TWO DAUGHTERS" | lolcat
 echo  "_____________________________________________________________" | lolcat
 
 sleep 1
