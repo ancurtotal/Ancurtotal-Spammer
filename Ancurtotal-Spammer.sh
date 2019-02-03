@@ -83,7 +83,7 @@ echo  "#SILAHKAN TUNGGU DAN LIHAT LIST TOOLS#" | lolcat
 echo  "######################################" | lolcat
 
 echo ""                
-echo  "TOOLS INI CUMAN UNTUK MENGINSTALLNYA SAJA" |lolcat
+echo  "TOOLS INI CUMA UNTUK MENGINSTALLNYA SAJA" |lolcat
 echo  "JIKA MAU MENJALANKAN TOOLS YANG KALIAN INSTALL" | lolcat
 echo  "SILAHKAN KETIK 00 LALU KETIK ls" | lolcat
 echo  "DAN MASUK KE TOOLS YANG KALIAN INSTALL" | lolcat
