@@ -53,17 +53,17 @@ sleep 1
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo  $green"TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUE " |lolcat
-echo  $green"Thanks For Using My Tools" |lolcat
+echo  "TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUE " |lolcat
+echo  "Thanks For Using My Tools" |lolcat
 sleep 1
-echo  $green"EKAY ANCURTOTAL On Your System" |lolcat
+echo  "EKAY ANCURTOTAL On Your System" |lolcat
 
-echo  $green"See you Again SCRIPTKIDDIES😎 :)..." |lolcat
+echo  "See you Again SCRIPTKIDDIES😎 :)..." |lolcat
 echo
-echo  $green"AIM FOR SOMETHING THAT IS IMPOSSIBLE"
-echo  $green"THERE IS NO SAFE SYSTEM"
-echo  $green"HAVE FUN IN CYBERSPACE AND THE REAL WORLD"
-echo  $green"HACKING IS NOT ALWAYS A CRIME :v"
+echo  "AIM FOR SOMETHING THAT IS IMPOSSIBLE"
+echo  "THERE IS NO SAFE SYSTEM"
+echo  "HAVE FUN IN CYBERSPACE AND THE REAL WORLD"
+echo  "HACKING IS NOT ALWAYS A CRIME :v"
 figlet ANCURTOTAL | lolcat
 echo "                 #  ANCURTOTAL CYBER TEAM # " | lolcat
 sleep 1
