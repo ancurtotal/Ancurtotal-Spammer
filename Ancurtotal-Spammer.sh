@@ -11,6 +11,7 @@
 #02/02/19
 
 clear
+python2 ancurtotal.py
 # Variables
 b='\033[1m'
 u='\033[4m'
@@ -27,6 +28,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
+lolcat Ekay.txt
 figlet ANCURTOTAL | lolcat
 
 echo  "_____________________________________________________________" | lolcat
@@ -95,7 +97,11 @@ echo  "#ORANG GILA MAH BEBAS😎" | lolcat
 echo ""  
 echo ""  
 
+echo "######################################" | lolcat
+echo "########  ANCURTOTAL SPAMMER  ########" | lolcat
+echo "######################################" | lolcat
 
+echo ""
 echo "============================" | lolcat
 echo "1. Install LITESPAM${enda}";
 echo "============================" | lolcat
