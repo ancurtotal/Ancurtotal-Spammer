@@ -78,8 +78,7 @@ echo ""
 
 echo  "######################################" | lolcat
 echo  "#SILAHKAN TUNGGU DAN LIHAT LIST TOOLS#" | lolcat
-echo  "######################################" | 
-lolcat
+echo  "######################################" | lolcat
 
 echo ""                
 echo  "TOOLS INI CUMAN UNTUK MENGINSTALLNYA SAJA" |lolcat
